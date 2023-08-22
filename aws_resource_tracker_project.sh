@@ -1,7 +1,7 @@
 #!/bin/bash
 
 <<intro
-Author: Wale J
+Author: Wale Johnson
 Date: 09 Aug 2023
 Project: AWS resource tracker
 intro
